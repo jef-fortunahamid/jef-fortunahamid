@@ -29,3 +29,15 @@ This is my project portfolio.
 ### 🤝 Connect with Me
 - [LinkedIn](www.linkedin.com/in/jfortha) *social*
 - jfhamid40@icloud.com *email*
+
+### My Data Journey
+
+On February 1st, 2023, I embarked on my journey in the field of data analytics. It has been quite a ride so far. I began by obtaining the Google Data Analytics Certification, dedicating ten weeks to intensive study and successfully completing the course.
+
+Initially, my decision to pursue data analytics was to dip my toes in the water and see if it was the right path for me. However, I quickly discovered that I thoroughly enjoyed every minute of it. This marked the beginning of my hard work. I knew that the Google certification alone would not be sufficient to become a proficient data analyst. If I truly wanted to delve deeper into the world of data analytics, I had to put in the effort.
+
+Consequently, I enrolled in the Excel Skills for Data Analytics and Visualization Course on Coursera. This course proved to be invaluable in expanding my understanding of data analysis using Excel.
+
+My next objective was to acquire a deeper understanding of SQL. I began by taking the Learn SQL Basics for Data Science Course, which served as an excellent introduction. However, as I progressed to Course 2, I found myself encountering unfamiliar concepts that were not adequately explained in a way that resonated with me. I realized that I needed to find another SQL course that would provide a more comprehensive understanding. That's when I came across Data with Danny Serious SQL.
+
+Data with Danny Serious SQL turned out to be an exceptional resource. Through this course, I gained extensive knowledge ranging from simple data cleaning techniques to performing analytics in the fields of people and healthcare. Danny's lessons provided valuable insights that greatly enhanced my understanding of SQL.
