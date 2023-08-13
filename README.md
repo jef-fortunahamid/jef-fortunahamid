@@ -2,6 +2,17 @@
 
 ### Hi there 👋🏽
 
-I'm Jeffrey, an Analytical Chemist 🧑🏽‍🔬🥼 by profession and self-taught Data Analyst👨🏽‍💻 from Australia 🇦🇺.
+I'm Jeffrey, a self-taught Data Analyst👨🏽‍💻 and an Analytical Chemist 🧑🏽‍🔬🥼 from Australia 🇦🇺.
 
+## About Me
+- 🍽️ Cafe Business Owner ☕️Barista, 👨🏼‍🍳Cook, 👨🏽‍🏫Bookkeeper
+- 👨🏽‍💻 Currently on the Data journey
+- 💻 Learning platforms: Coursera, 365DataScience, AnalyticsMentor
+
+### Degree and Certification
+- BSc Chemistry (Western Mindanao State University, Philippines)
+- Google Data Analytics Certification (Coursera)
+
+### Contact Me
 [LinkedIn](www.linkedin.com/in/jfortha)
+jfhamid40@icloud.com *email*
