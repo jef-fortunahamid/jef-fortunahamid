@@ -27,5 +27,5 @@ This is my project portfolio.
 - Serious SQL (Data with Danny by Danny Ma)
 
 ### 🤝 Connect with Me
--[LinkedIn](www.linkedin.com/in/jfortha) *social*
--jfhamid40@icloud.com *email*
+- [LinkedIn](www.linkedin.com/in/jfortha) *social*
+- jfhamid40@icloud.com *email*
