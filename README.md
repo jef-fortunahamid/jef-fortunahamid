@@ -5,7 +5,7 @@
 
 I'm Jeffrey, a self-taught Data Analyst👨🏽‍💻 and an Analytical Chemist 🧑🏽‍🔬🥼 from Australia 🇦🇺.
 
-## About Me
+## 🙋🏽‍♂️ About Me
 - 🍽️ Cafe Business Owner ☕️Barista, 👨🏼‍🍳Cook, 👨🏽‍🏫Bookkeeper
 - 👨🏽‍💻 Currently on the Data journey
 - 💻 Learning platforms: Coursera, 365DataScience
