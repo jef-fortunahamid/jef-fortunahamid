@@ -8,7 +8,7 @@ I'm Jeffrey, a self-taught Data Analyst👨🏽‍💻 and an Analytical Chemist
 ## About Me
 - 🍽️ Cafe Business Owner ☕️Barista, 👨🏼‍🍳Cook, 👨🏽‍🏫Bookkeeper
 - 👨🏽‍💻 Currently on the Data journey
-- 💻 Learning platforms: Coursera, 365DataScience, AnalyticsMentor
+- 💻 Learning platforms: Coursera, 365DataScience
 
 ## 🛠️ Languages and Tools
 - **SQL** (PosgreSQL - Docker & pgAdmin4, Google BigQuery)
