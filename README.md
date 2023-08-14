@@ -18,7 +18,7 @@ I'm Jeffrey, a self-taught Data Analyst👨🏽‍💻 and an Analytical Chemist
 
 ## Projects
 This is my project portfolio.
-- [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md)
+- [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md) PostgreSQL with Docker
 
 ### Degree, Certification, Courses
 - BSc Chemistry (Western Mindanao State University, Philippines)
