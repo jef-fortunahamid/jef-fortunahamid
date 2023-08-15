@@ -23,7 +23,7 @@ This is my project portfolio.
 ### Degree, Certification, Courses
 - BSc Chemistry (Western Mindanao State University, Philippines)
 - Google Data Analytics Certification (Coursera)
-- Excel Skills for Data Analytics and Visualisation (Coursera)
+- Excel Skills for Data Analytics and Visualisation (Macquarie University on Coursera)
 - Serious SQL (Data with Danny by Danny Ma)
 
 ### 🤝 Connect with Me
