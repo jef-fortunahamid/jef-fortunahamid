@@ -19,10 +19,10 @@ I'm Jeffrey, a self-taught Data Analyst👨🏽‍💻 and an Analytical Chemist
 ## Projects
 This is my project portfolio.
 
-### SQL-based Projects
+#### SQL-based Projects
 - [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md) PostgreSQL with Docker
 
-### Visualization
+#### Visualization
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ### Degree, Certification, Courses
