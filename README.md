@@ -3,12 +3,12 @@
 
 ### Hi there 👋🏽
 
-I'm Jeffrey, a self-taught Data Analyst👨🏽‍💻 and an Analytical Chemist 🧑🏽‍🔬🥼 from Australia 🇦🇺.
+I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging analytical chemistry🧑🏽‍🔬🥼 background to unlock data insights from Australia 🇦🇺.
 
 ## 🙋🏽‍♂️ About Me
+- 👨🏽‍💻 Currently diving deep into SQL and Data Visualization, and open to opportunities in Data Analytics.
+- 💻 I have been honing my skills through various online platforms such as Coursera and 365DataScience.
 - 🍽️ Cafe Business Owner ☕️Barista, 👨🏼‍🍳Cook, 👨🏽‍🏫Bookkeeper
-- 👨🏽‍💻 Currently on the Data journey
-- 💻 Learning platforms: Coursera, 365DataScience
 
 ## 🛠️ Languages and Tools
 - **SQL** (PosgreSQL - Docker & pgAdmin4, Google BigQuery)
@@ -26,10 +26,10 @@ This is my project portfolio.
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ### Degree, Certification, Courses
-- BSc Chemistry (Western Mindanao State University, Philippines)
-- Google Data Analytics Certification (Coursera)
-- Excel Skills for Data Analytics and Visualisation (Macquarie University on Coursera)
 - Serious SQL (Data with Danny by Danny Ma)
+- Excel Skills for Data Analytics and Visualisation [*Certificate*](https://coursera.org/share/3d173e6b35d6899cee8af798f6866be6) (Macquarie University on Coursera)
+- Google Data Analytics Certification (Coursera)
+- BSc Chemistry (Western Mindanao State University, Philippines)
 
 ### 🤝 Connect with Me
 - [LinkedIn](www.linkedin.com/in/jfortha) *social*
