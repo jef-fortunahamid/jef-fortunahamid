@@ -3,7 +3,7 @@
 
 ### Hi there 👋🏽
 
-I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging analytical chemistry🧑🏽‍🔬🥼 background to unlock data insights from Australia 🇦🇺.
+I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chemistry🧑🏽‍🔬🥼 background to unlock data insights. I am from Australia 🇦🇺.
 
 ## 🙋🏽‍♂️ About Me
 - 👨🏽‍💻 Currently diving deep into SQL and Data Visualization, and open to opportunities in Data Analytics.
@@ -13,7 +13,7 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging analytical chem
 ## 🛠️ Languages and Tools
 - **SQL** (PosgreSQL - Docker & pgAdmin4, Google BigQuery)
 - **R Studio**
-- **Tableau**
+- **Visualisation** (Tableau, Microsoft Excel)
 - **Spreadsheets** (Microsoft Excel, Google Sheet)
 
 ## Projects
@@ -28,7 +28,7 @@ This is my project portfolio.
 ### Degree, Certification, Courses
 - Serious SQL (Data with Danny by Danny Ma)
 - Excel Skills for Data Analytics and Visualisation [*Certificate*](https://coursera.org/share/3d173e6b35d6899cee8af798f6866be6) (Macquarie University on Coursera)
-- Google Data Analytics Certification (Coursera)
+- Google Data Analytics Certification [*Certificate*](https://coursera.org/share/3d173e6b35d6899cee8af798f6866be6) (Coursera)
 - BSc Chemistry (Western Mindanao State University, Philippines)
 
 ### 🤝 Connect with Me
