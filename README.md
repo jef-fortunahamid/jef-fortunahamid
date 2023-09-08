@@ -27,7 +27,7 @@ This is my project portfolio.
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ## Degree, Certification, Courses
-- Data Visualisation with Tableau Specialisation (University of California, Davis on Coursera)
+- Data Visualisation with Tableau Specialisation [*Certificate*](https://coursera.org/share/9ce1111f93f337732770c50e2c31b2f0) (University of California, Davis on Coursera)
 - Serious SQL (Data with Danny by Danny Ma)
 - Data Wrangling, Analysis and AB Testing with SQL [*Certificate*](https://coursera.org/share/904bc3bc693086e314b55c1548105085) (University of California, Davis on Coursera)
 - SQL for Data Science [*Certificate*](https://coursera.org/share/8b62750bbe178984dcb96da81cc553e7) (University of California, Davis on Coursera)
@@ -51,3 +51,7 @@ Consequently, I enrolled in the Excel Skills for Data Analytics and Visualizatio
 My next objective was to acquire a deeper understanding of SQL. I began by taking the Learn SQL Basics for Data Science Course, which served as an excellent introduction. However, as I progressed to Course 2, I found myself encountering unfamiliar concepts that were not adequately explained in a way that resonated with me. I realized that I needed to find another SQL course that would provide a more comprehensive understanding. That's when I came across Data with Danny Serious SQL.
 
 Data with Danny Serious SQL turned out to be an exceptional resource. Through this course, I gained extensive knowledge ranging from simple data cleaning techniques to performing analytics in the fields of people and healthcare. Danny's lessons provided valuable insights that greatly enhanced my understanding of SQL.
+
+I delved into visualisation through the Data Visualisation with Tableau Specialisation course. This course taught me the ins and outs of data visualisation. While the Google DAta Analytics course introduced Tableau, it didn't explore the tools full capabilities. The specialisation course, however, guided me through the entire data visualisation process from start to finish.
+
+Tableau helps in data visualisation by making it easy to turn raw data into understandablre charts and graphs. With just a few clicks, you canc reate visuals that make complex data simple to grasp.
