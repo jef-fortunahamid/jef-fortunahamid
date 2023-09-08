@@ -9,6 +9,7 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chem
 - 👨🏽‍💻 Currently diving deep into SQL and Data Visualization, and open to opportunities in Data Analytics.
 - 💻 I have been honing my skills through various online platforms such as Coursera and 365DataScience.
 - 🍽️ Cafe Business Owner ☕️Barista, 👨🏼‍🍳Cook, 👨🏽‍🏫Bookkeeper
+- 🧑🏽‍🔬🥼 Analytical Chemist (BSc Chemistry)
 
 ## 🛠️ Languages and Tools
 - **SQL** (PosgreSQL - Docker & pgAdmin4, Google BigQuery)
