@@ -19,13 +19,13 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chem
 ## Projects
 This is my project portfolio.
 
-#### SQL-based Projects
+### SQL-based Projects
 - [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md) PostgreSQL with Docker: Utilized PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs.
 
-#### Visualization
+### Visualization
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
-### Degree, Certification, Courses
+## Degree, Certification, Courses
 - Serious SQL (Data with Danny by Danny Ma)
 - Data Wrangling, Analysis and AB Testing with SQL [*Certificate*](https://coursera.org/share/904bc3bc693086e314b55c1548105085) (University of California, Davis on Coursera)
 - SQL for Data Science [*Certificate*](https://coursera.org/share/8b62750bbe178984dcb96da81cc553e7) (University of California, Davis on Coursera)
