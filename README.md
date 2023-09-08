@@ -27,6 +27,7 @@ This is my project portfolio.
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ## Degree, Certification, Courses
+- Data Visualisation with Tableau Specialisation (University of California, Davis on Coursera)
 - Serious SQL (Data with Danny by Danny Ma)
 - Data Wrangling, Analysis and AB Testing with SQL [*Certificate*](https://coursera.org/share/904bc3bc693086e314b55c1548105085) (University of California, Davis on Coursera)
 - SQL for Data Science [*Certificate*](https://coursera.org/share/8b62750bbe178984dcb96da81cc553e7) (University of California, Davis on Coursera)
