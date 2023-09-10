@@ -3,7 +3,7 @@
 
 ### Hi there 👋🏽
 
-I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chemistry🧑🏽‍🔬🥼 background to unlock data insights. I am from Australia 🇦🇺.
+I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chemistry🧑🏽‍🔬🥼 background to unlock data insights.
 
 ## 🙋🏽‍♂️ About Me
 - 👨🏽‍💻 Currently diving deep into SQL and Data Visualization, and open to opportunities in Data Analytics.
