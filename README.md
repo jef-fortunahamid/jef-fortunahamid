@@ -53,5 +53,3 @@ My next objective was to acquire a deeper understanding of SQL. I began by takin
 Data with Danny Serious SQL turned out to be an exceptional resource. Through this course, I gained extensive knowledge ranging from simple data cleaning techniques to performing analytics in the fields of people and healthcare. Danny's lessons provided valuable insights that greatly enhanced my understanding of SQL.
 
 I delved into visualisation through the Data Visualisation with Tableau Specialisation course. This course taught me the ins and outs of data visualisation. While the Google DAta Analytics course introduced Tableau, it didn't explore the tools full capabilities. The specialisation course, however, guided me through the entire data visualisation process from start to finish.
-
-Tableau helps in data visualisation by making it easy to turn raw data into understandablre charts and graphs. With just a few clicks, you canc reate visuals that make complex data simple to grasp.
