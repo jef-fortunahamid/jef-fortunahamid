@@ -30,13 +30,18 @@ This is my project portfolio.
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ## Degree, Certification, Courses
+### *Microsoft Excel*
+- Introduction to Excel [*Certificate*](https://learn.365datascience.com/c/845151bdbf/) (365DataScience)
+- Excel Skills for Data Analytics and Visualisation [*Certificate*](https://coursera.org/share/3d173e6b35d6899cee8af798f6866be6) (Macquarie University on Coursera)
+- Work Smarter with Microsoft Excel [*Certificate*](https://coursera.org/share/6a120b385ebdf79958ed98eb982d4258) (Microsoft on Coursera)
+### *SQL*
 - Data Visualisation with Tableau Specialisation [*Certificate*](https://coursera.org/share/9ce1111f93f337732770c50e2c31b2f0) (University of California, Davis on Coursera)
 - Serious SQL (Data with Danny by Danny Ma)
 - Data Wrangling, Analysis and AB Testing with SQL [*Certificate*](https://coursera.org/share/904bc3bc693086e314b55c1548105085) (University of California, Davis on Coursera)
 - SQL for Data Science [*Certificate*](https://coursera.org/share/8b62750bbe178984dcb96da81cc553e7) (University of California, Davis on Coursera)
-- Excel Skills for Data Analytics and Visualisation [*Certificate*](https://coursera.org/share/3d173e6b35d6899cee8af798f6866be6) (Macquarie University on Coursera)
-- Work Smarter with Microsoft Excel [*Certificate*](https://coursera.org/share/6a120b385ebdf79958ed98eb982d4258) (Microsoft on Coursera)
+ 
 - Google Data Analytics Certification [*Certificate*](https://coursera.org/share/d46683816d5d5a4c6b0e90004fd99710) (Coursera)
+  
 - BSc Chemistry (Western Mindanao State University, Philippines)
 
 ### 🤝 Connect with Me
