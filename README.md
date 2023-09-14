@@ -65,4 +65,6 @@ My next objective was to acquire a deeper understanding of SQL. I began by takin
 
 Data with Danny Serious SQL turned out to be an exceptional resource. Through this course, I gained extensive knowledge ranging from simple data cleaning techniques to performing analytics in the fields of people and healthcare. Danny's lessons provided valuable insights that greatly enhanced my understanding of SQL.
 
-I delved into visualisation through the Data Visualisation with Tableau Specialisation course. This course taught me the ins and outs of data visualisation. While the Google DAta Analytics course introduced Tableau, it didn't explore the tools full capabilities. The specialisation course, however, guided me through the entire data visualisation process from start to finish.
+I delved into visualisation through the Data Visualisation with Tableau Specialisation course. This course taught me the ins and outs of data visualisation. While the Google Data Analytics course introduced Tableau, it didn't explore the tool's full capabilities. The specialisation course, however, guided me through the entire data visualisation process from start to finish.
+
+I've signed up for the Data Analyst course on 365 Data Science. This course will refresh my understanding of data analysis, especially what I've learned using Microsoft Excel and SQL. The course will cover Statistics and Python, which are key skills for a Data Analyst. It will also go deep into MS Excel and SQL, and I'm really excited to learn more about these.
