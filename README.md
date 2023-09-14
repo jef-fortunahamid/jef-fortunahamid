@@ -24,7 +24,7 @@ This is my project portfolio.
 - [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md) PostgreSQL with Docker: Utilized PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs.
 
 ### Microsoft Excel-based Project
-- [Football Transfer Analysis](https://github.com/jef-fortunahamid/ExcelFootballAnalysis/blob/main/README.md) Utilised MS Excel to clean and analyze three problems presented. Implemented various techniques to answer the problems.
+- [Football Transfer Analysis](https://github.com/jef-fortunahamid/ExcelFootballAnalysis/blob/main/README.md) Utilised MS Excel to clean and analyze three problems presented. Implemented various techniques to answer the problems such as INDEX/MATCH, UINIQUE/FILTER, SUMIFS, FIND/REPLACE and Formatting Cells.
 
 ### Visualization
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
