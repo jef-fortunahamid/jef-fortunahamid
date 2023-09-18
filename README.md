@@ -12,7 +12,7 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chem
 - 🧑🏽‍🔬🥼 Analytical Chemist (BSc Chemistry)
 
 ## 🛠️ Languages and Tools
-- **SQL** (PosgreSQL - Docker & pgAdmin4, Google BigQuery)
+- **SQL** (PosgreSQL - Docker & pgAdmin4, MySQL, Google BigQuery)
 - **R Studio**
 - **Visualisation** (Tableau, Microsoft Excel)
 - **Spreadsheets** (Microsoft Excel, Google Sheet)
