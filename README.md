@@ -32,6 +32,7 @@ This is my project portfolio.
 
 ## Degree, Certification, Courses
 ### *SQL*
+- Advanced SQL [*Certificate*](https://learn.365datascience.com/c/373d0da8a7/) (MySQL on 365 Data Science)
 - SQL [*Certificate*](https://learn.365datascience.com/c/7a35edec28/) (MySQL on 365 Data Science)
 - Serious SQL (Data with Danny by Danny Ma)
 - Data Wrangling, Analysis and AB Testing with SQL [*Certificate*](https://coursera.org/share/904bc3bc693086e314b55c1548105085) (University of California, Davis on Coursera)
