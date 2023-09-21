@@ -50,7 +50,7 @@ This is my project portfolio.
 - Google Data Analytics Certification [*Certificate*](https://coursera.org/share/d46683816d5d5a4c6b0e90004fd99710) (Coursera)
 
 ### *Degree*
-- BSc Chemistry (Western Mindanao State University, Philippines)
+- Bachelor of Science in Chemistry (Western Mindanao State University, Philippines)
 
 ### 🤝 Connect with Me
 - [LinkedIn](www.linkedin.com/in/jfortha) *social*
