@@ -21,7 +21,8 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chem
 This is my project portfolio.
 
 ### SQL-based Projects
-- [Analysing Student Conversion and Engagement Metrics on the 365 E-Learning Platform](https://github.com/jef-fortunahamid/365E-LearningAnalysis) MySQL: Utilised MySQL to analyse the dataset. Techniques such as JOINs, CTE and DATEDIFF were used.
+- [Optimising Inventory for Strategic Warehouse Closure at Mint Classics Company](https://github.com/jef-fortunahamid/MintClassicsCo/blob/main/README.md) Utilised MySQL workbench for the analysis. Techniques such as JOINs, CTE, Sub-queries, filter clause (WHERE and HAVING) and Conditional Logic (CASE WHEN) were used.
+- [Analysing Student Conversion and Engagement Metrics on the 365 E-Learning Platform](https://github.com/jef-fortunahamid/365E-LearningAnalysis) MySQL: Utilised MySQL workbench to analyse the dataset. Techniques such as JOINs, CTE and DATEDIFF were used.
 - [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs.
 
 ### Microsoft Excel-based Project
