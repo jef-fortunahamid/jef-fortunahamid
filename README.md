@@ -21,6 +21,7 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chem
 This is my project portfolio.
 
 ### SQL-based Projects
+- [Designing a Scalable Database for Greenspot Grocer Using MySQL](https://github.com/jef-fortunahamid/GreenspotGrocerDBDesign/blob/main/README.md) Utilised MySQL to restructure a `.csv` file into a scalable database. Techniques used `CREATE TABLE`, `PRIMARY KEY` and `FOREIGN KEY`, `INSERT INTO`, `JOIN` and `TRIGGER`. Also used MySQL Workbench's Enhanced Entity-Relationship (EER) Diagram builder to visually design the database structure.
 - [Optimising Inventory for Strategic Warehouse Closure at Mint Classics Company](https://github.com/jef-fortunahamid/MintClassicsCo/blob/main/README.md) Utilised MySQL workbench for the analysis. Techniques such as JOINs, CTE, Sub-queries, filter clause (WHERE and HAVING) and Conditional Logic (CASE WHEN) were used.
 - [Analysing Student Conversion and Engagement Metrics on the 365 E-Learning Platform](https://github.com/jef-fortunahamid/365E-LearningAnalysis) MySQL: Utilised MySQL workbench to analyse the dataset. Techniques such as JOINs, CTE and DATEDIFF were used.
 - [8 Week SQL Challenge (Data with Danny)](https://github.com/jef-fortunahamid/8_Week_SQL_Challenge/blob/main/README.md) PostgreSQL with Docker: Utilised PostgreSQL to clean and analyze eight different data from banking and sales, to name a few. Implemented various SQL techniques including window functions and CTEs.
