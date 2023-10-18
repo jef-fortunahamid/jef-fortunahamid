@@ -44,6 +44,7 @@ This is my project portfolio.
 - SQL for Data Science [*Certificate*](https://coursera.org/share/8b62750bbe178984dcb96da81cc553e7) (University of California, Davis on Coursera)
   
 ### *Microsoft Excel*
+- Advanced Microsoft Excel [*Certificate*](https://learn.365datascience.com/c/6b28ed7c5d/) (365DataScience)
 - Introduction to Excel [*Certificate*](https://learn.365datascience.com/c/845151bdbf/) (365DataScience)
 - Excel Skills for Data Analytics and Visualisation [*Certificate*](https://coursera.org/share/3d173e6b35d6899cee8af798f6866be6) (Macquarie University on Coursera)
 - Work Smarter with Microsoft Excel [*Certificate*](https://coursera.org/share/6a120b385ebdf79958ed98eb982d4258) (Microsoft on Coursera)
