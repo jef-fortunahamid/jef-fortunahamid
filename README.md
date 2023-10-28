@@ -54,6 +54,7 @@ This is my project portfolio.
 - Data Visualisation with Tableau Specialisation [*Certificate*](https://coursera.org/share/9ce1111f93f337732770c50e2c31b2f0) (University of California, Davis on Coursera)
 
 ### *Data Analytics*
+- Business Metrics for Data_driven Companies [*Certificate*](https://coursera.org/share/f676583115c837b98e8b2abe32a47b1f) (Coursera)
 - Google Data Analytics Certification [*Certificate*](https://coursera.org/share/d46683816d5d5a4c6b0e90004fd99710) (Coursera)
 
 ### *Degree*
