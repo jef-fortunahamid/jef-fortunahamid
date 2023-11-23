@@ -37,6 +37,9 @@ This is my project portfolio.
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ## Degree, Certification, Courses
+### *Python*
+- Python for Everybody (University of Michigan on Coursera)
+
 ### *SQL*
 - Advanced SQL [*Certificate*](https://learn.365datascience.com/c/373d0da8a7/) (MySQL on 365 Data Science)
 - SQL [*Certificate*](https://learn.365datascience.com/c/7a35edec28/) (MySQL on 365 Data Science)
