@@ -38,7 +38,7 @@ This is my project portfolio.
 
 ## Degree, Certification, Courses
 ### *Python*
-- Python for Everybody (University of Michigan on Coursera)
+- Python for Everybody [*Certificate*](https://coursera.org/share/7885936bdc41530b4eea806e4c7496d1) (University of Michigan on Coursera)
 
 ### *SQL*
 - Advanced SQL [*Certificate*](https://learn.365datascience.com/c/373d0da8a7/) (MySQL on 365 Data Science)
