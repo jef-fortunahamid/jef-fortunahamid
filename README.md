@@ -42,6 +42,8 @@ This is my project portfolio.
 - Python for Everybody [*Certificate*](https://coursera.org/share/7885936bdc41530b4eea806e4c7496d1) (University of Michigan on Coursera)
 
 ### *SQL*
+- Advanced MySQL for Data Analysis [*Certificate*](https://www.analystbuilder.com/achievements/verify/EHIIQCX3N5)
+- MySQL for Data Analytics [*Certificate*](https://www.analystbuilder.com/achievements/verify/3YVVGHOW56)
 - Advanced SQL [*Certificate*](https://learn.365datascience.com/c/373d0da8a7/) (MySQL on 365 Data Science)
 - SQL [*Certificate*](https://learn.365datascience.com/c/7a35edec28/) (MySQL on 365 Data Science)
 - Serious SQL (Data with Danny by Danny Ma)
