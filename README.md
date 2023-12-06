@@ -13,10 +13,10 @@ I'm Jeffrey, a passionate Data Analyst👨🏽‍💻 leveraging Analytical Chem
 
 ## 🛠️ Languages and Tools
 - **SQL** (PosgreSQL - Docker & pgAdmin4, MySQL, Google BigQuery)
-- **Python**
-- **R Studio**
 - **Visualisation** (Tableau, Microsoft Excel)
 - **Spreadsheets** (Microsoft Excel, Google Sheet)
+- **Python**
+- **R Studio**
 
 ## 📚 Article
 - [How to Write Projects on GitHub Using Markdown: A Beginner's Guide](https://github.com/jef-fortunahamid/Github-and-Markdown-Beginners-Guide) This Beginner's Guide walks you through the process, from creating a repository to writing documentation in Markdown, all in simple and easy-to-follow steps.
