@@ -38,18 +38,20 @@ This is my project portfolio.
 - [Tableau](https://public.tableau.com/app/profile/jfortha)
 
 ## Degree, Certification, Courses
-### *Python*
-- Python for Everybody [*Certificate*](https://coursera.org/share/7885936bdc41530b4eea806e4c7496d1) (University of Michigan on Coursera)
 
 ### *SQL*
-- Advanced MySQL for Data Analysis [*Certificate*](https://www.analystbuilder.com/achievements/verify/EHIIQCX3N5)
-- MySQL for Data Analytics [*Certificate*](https://www.analystbuilder.com/achievements/verify/3YVVGHOW56)
-- Advanced SQL [*Certificate*](https://learn.365datascience.com/c/373d0da8a7/) (MySQL on 365 Data Science)
-- SQL [*Certificate*](https://learn.365datascience.com/c/7a35edec28/) (MySQL on 365 Data Science)
+- Advanced MySQL for Data Analysis [*Certificate*](https://www.analystbuilder.com/achievements/verify/EHIIQCX3N5) (Analyst Builder)
+- MySQL for Data Analytics [*Certificate*](https://www.analystbuilder.com/achievements/verify/3YVVGHOW56) (Analyst Builder)
+- Advanced SQL [*Certificate*](https://learn.365datascience.com/c/373d0da8a7/) (365 Data Science)
+- SQL [*Certificate*](https://learn.365datascience.com/c/7a35edec28/) (365 Data Science)
 - Serious SQL (Data with Danny by Danny Ma)
 - Data Wrangling, Analysis and AB Testing with SQL [*Certificate*](https://coursera.org/share/904bc3bc693086e314b55c1548105085) (University of California, Davis on Coursera)
 - SQL for Data Science [*Certificate*](https://coursera.org/share/8b62750bbe178984dcb96da81cc553e7) (University of California, Davis on Coursera)
-  
+
+### *Python*
+- Python Programming for Beginners [*Certificate*](https://www.analystbuilder.com/achievements/verify/BNG61VO2ON) (Analyst Builder)
+- Python for Everybody [*Certificate*](https://coursera.org/share/7885936bdc41530b4eea806e4c7496d1) (University of Michigan on Coursera)
+
 ### *Microsoft Excel*
 - Advanced Microsoft Excel [*Certificate*](https://learn.365datascience.com/c/6b28ed7c5d/) (365DataScience)
 - Introduction to Excel [*Certificate*](https://learn.365datascience.com/c/845151bdbf/) (365DataScience)
